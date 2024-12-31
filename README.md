@@ -7,7 +7,7 @@ Data-Geoscientist
 Data-Geoscientist exploring Computational Geoscience and Geostatistical Analysis with the passionate about leveraging coding skills to solve real-world challenges and model Earth processes for societal betterment.
 
 * 🌍  I'm based in Bauchi - Nigeria
-* ✉️  You can contact me at [Mail Umar Zakariyya Muhammad](mailto:zakariyyaumarm@gmail.com)(mailto:zakariyyaumarm@gmail.com)
+* ✉️  You can contact me at [Umar Zakariyya Muhammad](mailto:zakariyyaumarm@gmail.com)
 * 🧠  I'm learning Python Programming, Computation and Geostatistics
 * 🤝  I'm open to collaborating on projects related to Computational Geoscience, Geostatistical Analysis Environmental Sustainability, and data-driven solutions for Geological and societal challenges
 * ⚡  Exploring Geological modeling and data-driven solutions.
